@@ -24,7 +24,10 @@ git commit -am "Initial Commit"
 git rm test Makefile *.o *.pro.user
 ```
 
-5.Then commit
+Then commit
 ```
 git commit -am "removed unwanted files"
 ```
+
+5.
+
